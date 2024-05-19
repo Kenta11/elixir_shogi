@@ -1,0 +1,8 @@
+# Compiled artifacts
+/_build/
+/cover/
+/deps/
+
+# Erlang/Mix temporary files
+/erl_crash.dump
+/.elixir_ls/
